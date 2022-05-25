@@ -2,7 +2,7 @@
 - 👀 I’m interested anything related to technology and space
 - 🌱 I’m currently learning ReactJS, iOS and open for more
 - I'm more interested to learn about DevOps and cloud
-- 💞️ I’m looking to collaborate on project that help me learn MERN, Cloud, App Development
+- 💞️ I’m looking to collaborate in a project that help me learn MERN, Cloud, App Development
 - 📫 How to reach me - Twitter: FaizanA74080881
 
 <!---
