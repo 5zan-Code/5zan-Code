@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @5zan-Code aka Faizan Ansari
-- 👀 I’m interested anything related to technology and space
-- 🌱 I’m currently learning ReactJS, iOS and open for more
+- 👀 I’m interested in anything related to technology and space
+- 🌱 I’m currently working as a System and Desktop Support Technician.
 - I'm more interested to learn about DevOps and cloud
-- 💞️ I’m looking to collaborate in a project that help me learn MERN, Cloud, App Development
+- 💞️ I’m looking to collaborate on a project that will help me learn MERN, Cloud, and App Development
 - 📫 How to reach me - Twitter: FaizanA74080881
 
 <!---
