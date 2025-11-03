@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything related to technology and space
 - 🌱 I’m currently working as a System Deployment Administrator.
 - I'm more interested to learn about DevOps and cloud
-- 💞️ I’m looking to collaborate on a project that will help me learn MERN, Cloud, and App Development
+- 💞️ I’m looking to collaborate on a project that run on MERN Stack, Cloud, and App Development
 - 📫 How to reach me - Twitter: FaizanA74080881
 
 <!---
